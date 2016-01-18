@@ -1,2 +1,3 @@
-# grafana-templates
-Collection of Grafana templates
+# Grafana Templates
+
+Collection of Grafana templates.
