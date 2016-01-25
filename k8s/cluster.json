@@ -62,7 +62,7 @@
               "value": "null"
             }
           ],
-          "valueName": "current"
+          "valueName": "avg"
         },
         {
           "cacheTimeout": null,

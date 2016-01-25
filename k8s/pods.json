@@ -70,7 +70,7 @@
               "value": "null"
             }
           ],
-          "valueName": "avg"
+          "valueName": "current"
         },
         {
           "aliasColors": {},
